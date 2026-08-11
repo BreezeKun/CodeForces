@@ -21,4 +21,4 @@
 
 w = int(input())
 
-print(True if w%2 == 0 and w>2  else False)
+print("YES" if w%2 == 0 and w>2  else "No")
