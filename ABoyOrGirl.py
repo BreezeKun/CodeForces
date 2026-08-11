@@ -34,8 +34,4 @@ w = []
 for i in s:
     if i not in w:
         w.append(i)
-
-if len(w) % 2 == 0:
-    print("CHAT WITH HER!")
-else:
-    print("IGNORE HIM!")
+print("CHAT WITH HER!" if len(w)%2==0 else "IGNORE HIM!")
