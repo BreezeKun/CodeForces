@@ -60,3 +60,17 @@ for i in range(3):
 
 print("YES" if sum(l2) == 0 else "NO")
 
+# how to solve a matrix acc to this question:
+# x1 y1 z1
+# x2 y2 z2
+# x3 y3 z3
+
+# x = x1 + x2 + x3
+# y = y1 + y2 + y3
+# z = z1 + z2 + z3
+
+# if x == y == z == 0
+
+# its true else False
+
+
