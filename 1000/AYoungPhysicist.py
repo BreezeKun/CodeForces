@@ -72,5 +72,3 @@ print("YES" if sum(l2) == 0 else "NO")
 # if x == y == z == 0
 
 # its true else False
-
-
